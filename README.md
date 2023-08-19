@@ -1,4 +1,5 @@
-Hi, I’m Arteni Teodor (@ArteniTeo), I'm 19 years old and in my last year of high-school.
-I usually program in Java, and I am currently learning C++ and Java-Script.
+Hi, I’m Arteni Teodor (@ArteniTeo), I'm 19 years old and in my first year 
+of University pursuing a degree in Computer science.
+I am a Java developer but can manage C++ and Java-Script code as well.
 I enjoy learning new things and doing big projects.
 You can reach me at arteni.teodor@gmail.com
